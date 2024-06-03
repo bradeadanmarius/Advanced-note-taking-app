@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple">#800080</color>
+    <!-- Importance level colors -->
+    <color name="importance_low">#4CAF50</color> <!-- Green -->
+    <color name="importance_medium">#FF9800</color> <!-- Orange -->
+    <color name="importance_high">#F44336</color> <!-- Red -->
+</resources>
